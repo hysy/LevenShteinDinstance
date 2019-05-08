@@ -6,7 +6,7 @@ Used naive Dynamic Programming.
 
 - Time complexity
   - `O(|p||s|)`
-- Space complexity)
+- Space complexity
   - `O(|p||s|)`
 # Usage
 ```
